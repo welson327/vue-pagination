@@ -3,7 +3,7 @@ Vue.component('pagination', {
 	//props: ['totalCount', 'numPerPage', 'p', 'clickCb'], // use [total-count], [num-per-page] in HTML
 	props: {
 		totalCount: { type: Number, required: true, 'default': 0 },
-		numPerPage: { type: Number, 'default': 10 },
+		numPerPage: { type: Number, 'default': 30 },
 	    p: { type: Number, required: true, 'default': 1 },
 	    clickCb: { type: Function },
     },
