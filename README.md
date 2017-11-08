@@ -1,5 +1,10 @@
 ## Vue-Pagination
 
+**This is a bootstrap pagination implemented by vue.js**
+
+### Demo:
+https://rawgit.com/welson327/vue-pagination/master/src/example.html
+
 ### Usage
 
 * 1. Include component:
